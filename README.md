@@ -30,7 +30,9 @@ Or browse all versions on the [Releases page](https://github.com/icelanderus/Vid
 
 ## Demo
 
-**[▶ Watch the demo video](assets/video-wallpaper-demo.mp4)**
+[![Watch the demo on YouTube](https://i.ytimg.com/vi/xfYoJHJo970/hqdefault.jpg)](https://www.youtube.com/watch?v=xfYoJHJo970)
+
+**[▶ Watch the demo on YouTube](https://www.youtube.com/watch?v=xfYoJHJo970)** · [download the video file](assets/video-wallpaper-demo.mp4)
 
 ## Screenshots
 
