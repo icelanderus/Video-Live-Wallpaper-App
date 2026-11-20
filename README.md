@@ -1,8 +1,8 @@
 # Video Wallpaper
 
-**Set any video as your live wallpaper — with playlists, shuffle on unlock, and custom fits. Free, no ads.**
+**Set videos and photos as your live wallpaper — with playlists, shuffle on unlock, and custom fits. Free, no ads.**
 
-Video Wallpaper is a lightweight Android app that turns your own videos — memories, scenic loops, or custom clips — into a live wallpaper for your home and lock screen. It was built because every similar app on the store was stuffed with ads and missing the features that actually matter.
+Video Wallpaper is a lightweight Android app that turns your own videos and photos — memories, scenic loops, still images, or custom clips — into a rotating live wallpaper for your home and lock screen. It was built because every similar app on the store was stuffed with ads and missing the features that actually matter.
 
 <p align="center">
   <img src="assets/video-wallpaper-icon.png" width="128" alt="Video Wallpaper icon">
@@ -19,8 +19,8 @@ Or browse all versions on the [Releases page](https://github.com/icelanderus/Vid
 
 ## Features
 
-- **Playlist rotation** — import multiple videos and let them play through as a seamless collection
-- **Shuffle on unlock** — a new video from your playlist greets you every time you unlock your phone
+- **Videos & photos in one rotation** — import videos and still images and let them rotate as a single seamless collection
+- **Shuffle on unlock** — a new video or photo from your playlist greets you every time you unlock your phone
 - **Loop & sequence control** — each clip can loop forever, play once, or auto-advance to the next
 - **Per-video audio** — mute or unmute every video independently
 - **Custom fit & scale** — Fit, Crop, Stretch, or Fill, matched to your screen
@@ -35,10 +35,13 @@ Or browse all versions on the [Releases page](https://github.com/icelanderus/Vid
 ## Screenshots
 
 <p>
-  <img src="assets/screenshot-01.jpg" width="220" alt="Video Wallpaper screenshot 1">
-  <img src="assets/screenshot-02.jpg" width="220" alt="Video Wallpaper screenshot 2">
-  <img src="assets/screenshot-03.jpg" width="220" alt="Video Wallpaper screenshot 3">
-  <img src="assets/screenshot-04.jpg" width="220" alt="Video Wallpaper screenshot 4">
+  <img src="assets/screenshot-01.jpg" width="220" alt="Local gallery — videos and photos in one rotation">
+  <img src="assets/screenshot-02.jpg" width="220" alt="Playback and rotation settings">
+  <img src="assets/screenshot-03.jpg" width="220" alt="Cloud video gallery with downloadable presets">
+  <img src="assets/screenshot-04.jpg" width="220" alt="Local gallery — photo wallpapers">
+  <img src="assets/screenshot-05.jpg" width="220" alt="Setting a photo as the wallpaper">
+  <img src="assets/screenshot-06.jpg" width="220" alt="Local gallery — more photos in rotation">
+  <img src="assets/screenshot-07.jpg" width="220" alt="Rotation playlist size and battery settings">
 </p>
 
 ## Privacy
